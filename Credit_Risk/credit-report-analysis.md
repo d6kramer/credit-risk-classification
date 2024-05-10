@@ -1,8 +1,3 @@
-# credit-risk-classification
-Module 20 Challenge Repo
-
-The notebook used for this analysis is named "credit_risk_classification.ipynb."
-
 # Credit Report and Loan-Standing Analysis
 
 ## Overview of the Analysis
